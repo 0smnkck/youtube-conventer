@@ -37,4 +37,4 @@ YouTube Converter is an application that allows users to download and convert Yo
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+The project is for personal use only. I do not accept any responsibility whatsoever. No legal liability can be accepted.
